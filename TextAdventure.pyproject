@@ -1,3 +1,3 @@
 {
-    "files": ["Base.py","Hero.py","Test.py","main.py","Actor.py","Enemy.py"]
+    "files": ["Actor.py","Engine.py","Test.py","Hero.py","main.py","Base.py","Enemy.py","ActorInfos.py"]
 }
